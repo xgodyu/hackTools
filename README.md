@@ -1,5 +1,7 @@
 神域 -- 渗透测试工具箱 by:Godyu 404Xyunxi
-
+下载地址
+链接：https://pan.baidu.com/s/1UkExOQQO5F7TAEKVm-rYQw?pwd=0i33 
+提取码：0i33 
 2.功能介绍
 神域-主要包含Thinkphp综合利用工具,Yakit单兵武器库,mitan探测工具,若依综合渗透,Struts2全版本渗透,shiro反序列化利用工具,OA综合渗透,Tscan运维工具,Spring,Goby红队版,等Fofa查询工具和AWD专用工具
 
