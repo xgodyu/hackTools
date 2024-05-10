@@ -4,7 +4,8 @@
 神域-主要包含Thinkphp综合利用工具,Yakit单兵武器库,mitan探测工具,若依综合渗透,Struts2全版本渗透,shiro反序列化利用工具,OA综合渗透,Tscan运维工具,Spring,Goby红队版,等Fofa查询工具和AWD专用工具
 
 ​本 工具工具安全测试人员利用授权测试，禁止用于未授权测试，违者承担自负责任。作者不对您使用该工具所产生的任何后果承担任何法律责任。
-3.添加日志
+
+3.日志
 2024年5月1日	更新了运行环境,支持多版本java运行
 
 ![image](https://github.com/xgodyu/hackTools/assets/108613516/7895d047-f3ab-4560-8d36-a7da36b32777)
