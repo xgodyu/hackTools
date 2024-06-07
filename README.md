@@ -18,5 +18,3 @@
 
 ![image](https://github.com/xgodyu/hackTools/assets/108613516/05dad4c8-cf79-4411-910b-63cc0a1c40f8)
 
-欢迎关注我们的公众号<br>
-![d223a8c78cb9a27cc45d08cea886428](https://github.com/xgodyu/hackTools/assets/108613516/c107df25-e7e1-4b00-94b8-ef6efb906ca7)
